@@ -1,4 +1,4 @@
-# Ak-Meet
+##MEETPOINT
 
 A Video Calling application.
 
