@@ -1,4 +1,4 @@
-#MEETPOINT
+MEETPOINT
 
 A Video Calling application.
 
